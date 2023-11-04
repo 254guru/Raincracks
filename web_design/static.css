@@ -99,7 +99,7 @@ header {
     display: flex;
 }
 .logo {
-    background-image: url(images/raincracks_logo.jpeg);
+    background-image: url(images/logo.png);
     background-repeat: no-repeat, repeat;
     background-origin: content-box;
     padding-left: 20px;
