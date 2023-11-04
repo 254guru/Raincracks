@@ -5,8 +5,8 @@
 video{
     object-fit: cover;
 }
-section{
-    background: #000;
+section.anime{
+	background-color: #000;
 }
 h1{
     color: #f5f5f5;
@@ -99,7 +99,7 @@ header {
     display: flex;
 }
 .logo {
-    background-image: url(images/logo.png);
+    background-image: url(images/raincracks_logo.jpeg);
     background-repeat: no-repeat, repeat;
     background-origin: content-box;
     padding-left: 20px;
