@@ -141,7 +141,7 @@ section.filters {
 	border-radius: 4px;
 	font-size: 18px;
 	height: 48px;
-	width: 20%;
+	width: 10%;
 }
 
 .search-button {
@@ -150,5 +150,5 @@ section.filters {
 }
 
 .search-button:hover {
-	opacity: 90%;
+	opacity: 80%;
 }
